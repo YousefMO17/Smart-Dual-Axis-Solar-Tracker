@@ -4,8 +4,8 @@
 const char* ssid = "YOUR_WIFI_NAME";   
 const char* password = "YOUR_WIFI_PASS"; 
 
-unsigned long myChannelNumber = 1234567;  
-const char * myWriteAPIKey = "XYZ123ABC";
+unsigned long myChannelNumber = 3274646;  
+const char * myWriteAPIKey = "HKCLFZPMEMWFGN9I";
 
 WiFiClient  client;
 
